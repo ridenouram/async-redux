@@ -4,3 +4,4 @@ import characters from './characterReducer';
 export default combineReducers({
   characters
 });
+
