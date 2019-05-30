@@ -12,7 +12,7 @@ function Character({ name, img }) {
 
 Character.propTypes = {
   name: PropTypes.string.isRequired,
-  img: PropTypes.string.isRequired
+  img: PropTypes.string
 };
 
 export default Character;

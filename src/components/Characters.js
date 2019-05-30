@@ -20,3 +20,5 @@ function Characters({ characters }) {
 Characters.propTypes = {
   characters: PropTypes.array.isRequired
 };
+
+export default Characters;
